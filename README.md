@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AsadKhan4490
-- 👀 I’m interested in Java, JavaScript, REACT projects
-- 🌱 I’m currently learning REACT
+- 👀 I’m interested in Go, Python, AWS projects
+- 🌱 I’m currently learning Go
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 You can reach out to me on asadkm6293@gmail.com
 
